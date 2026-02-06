@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Platform](https://img.shields.io/badge/Platform-WSL2%20%7C%20Linux%20%7C%20CUDA-green)
 
-本项目致力于为 O'Reilly 2024 年重磅新书 **《3D Data Science with Python》** 提供中文语境下的深度技术支持与实践参考。
+本项目致力于为 O'Reilly 2025 年重磅新书 **《3D Data Science with Python》** 提供中文语境下的深度技术支持与实践参考。
 
 > **📢 出版合作声明：**
 > 本人已完成全书中文初稿翻译，并对书中所有代码进行了 2026 年最新库版本的兼容性修复。目前正在积极寻找国内出版社（如：图灵教育、博文视点、异步社区等）进行商业化引进合作。
