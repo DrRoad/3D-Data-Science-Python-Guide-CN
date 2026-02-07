@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Platform](https://img.shields.io/badge/Platform-WSL2%20%7C%20Linux%20%7C%20CUDA-green)
 
-本项目是 O'Reilly 2024 年重磅力作 **《3D Data Science with Python》** 的全体系深度汉化与实战指南。
+本项目是 O'Reilly 2025 年重磅力作 **《3D Data Science with Python》** 的全体系深度汉化与实战指南。
 
 > **📢 商业合作声明：**
 > 本人已完成全书 **18 章（约 690 页）** 的高质量中文翻译，并独立开发了全套配套资源（教学 PPT、精修代码、工程指南）。本项目旨在通过“**理论翻译 + 本地化实战**”的模式，助力国内具身智能、自动驾驶与空间计算人才培养。
